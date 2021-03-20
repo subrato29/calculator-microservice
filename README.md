@@ -22,4 +22,6 @@ http://localhost:8050/add/x/y
 http://localhost:8050/sub/x/y
 http://localhost:8050/div/x/y
 http://localhost:8050/mul/x/y
+
+where x & y is Integer no
 ```
